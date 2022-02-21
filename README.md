@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# CRUD App Build with TypeORM
 
 Steps to run this project:
 
